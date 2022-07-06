@@ -1,0 +1,21 @@
+bot : Hi There! I am a medical chatbot. You can begin conversation by typing in a message and pressing enter.
+user : My name is Shailja
+bot : - Hello! your name has been stored. What is your age?
+user : My age is 18
+bot : - okay. your age has been stored. Which city do you live in?
+user : I Live in Datia
+bot : - okay location stored. Welcome to medical portal. Say Hi!
+user : Hii
+bot : - Hello. How are you feeling today?
+user : I am not feeling good
+bot : - okay. can you tell me what's wrong? what are your symptoms?
+user : my nose is chocked
+bot : - Okay, this is a symptom of cold, do you have cold?
+user : yes i have cold
+bot : - You should take a sudafed tablet after your meal.
+user : ok i will take
+bot : - let me know if you are feeling better after having crocin.
+user : yes
+bot : - Bye. Nice talking to you
+user : bye
+bot : - Bye. Nice talking to you

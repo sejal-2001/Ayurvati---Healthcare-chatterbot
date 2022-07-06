@@ -1,0 +1,33 @@
+bot : Hi There! I am a medical chatbot. You can begin conversation by typing in a message and pressing enter.
+user : My name is Shailja
+bot : - Hello! your name has been stored. What is your age?
+user : 19
+bot : - - are you online?
+user : no
+bot : - okay. can you tell me what's wrong? what are your symptoms?
+user : My nose is chocked
+bot : - Okay, this is a symptom of cold, do you have cold?
+user : yes i have cold
+bot : - You should take a sudafed tablet after your meal.
+user : ok i will take tablet
+bot : - let me know if you are feeling better after having sudafed tablet.
+user : yes 
+bot : - Bye. Nice talking to you
+user : me too
+bot : - Thank you. How can i assist you? How are you feeling today?
+user : I am not feeling well
+bot : - okay. can you tell me what's wrong? what are your symptoms?
+user : My body temperature has raised
+bot : - This is a symptom of fever, you should take a tablet of crocin after you have your meal.
+user : ok
+bot : - Good, now take some rest and then let me know if you are feeling better after having crocin.
+user : is a doctor available
+bot : - sorry, all doctors are occupied at the moment. We will connect you to a doctor soon. Do you want to book an appointment?
+user : yes
+bot : - Bye. Nice talking to you
+user : what is your age
+bot : - I was created in February 2019.
+user : what is your age
+bot : - I was created in February 2019.
+user : who is your father
+bot : - Automated healthcare team created me.
